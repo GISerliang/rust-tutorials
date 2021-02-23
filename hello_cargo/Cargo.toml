@@ -1,0 +1,9 @@
+[package] # 打包信息
+name = "hello_cargo" # 程序名
+version = "0.1.0" # 版本号
+authors = ["giserliang <giserliang@hotmail.com>"] # 作者信息
+edition = "2018" # 编译版本信息
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies] # 项目依赖
